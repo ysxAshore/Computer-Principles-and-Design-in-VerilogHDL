@@ -1,7 +1,0 @@
-Running: xsim.dir/cmos_andOr_test_behav/xsimk.exe -simmode gui -wdb cmos_andOr_test_behav.wdb -simrunnum 0 -socket 4130
-Design successfully loaded
-Design Loading Memory Usage: 9356 KB (Peak: 9356 KB)
-Design Loading CPU Usage: 0 ms
-Simulation completed
-Simulation Memory Usage: 9888 KB (Peak: 9888 KB)
-Simulation CPU Usage: 0 ms
