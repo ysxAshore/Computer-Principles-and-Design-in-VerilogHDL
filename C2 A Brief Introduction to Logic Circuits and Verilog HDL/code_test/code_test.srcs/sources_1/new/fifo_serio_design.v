@@ -19,7 +19,7 @@ module fifo_serio_design(
     flopr f4(clk4,0,d34,q);
 
     wire temp1;
-    floprc_async gen_temp1(write,0,clrn|clk1,~clrn,temp1);
+    floprc_async gen_temp1(write,0,clrn|clk1,~clrn,temp1);//要使用上升沿清0；不能加使能端，否则temp1是不定态
     rs_latch_high gen_q1(clk1,clk2,clrn,q1,qn1);
     //clk1
     assign #1 clk1=temp1&qn1;
