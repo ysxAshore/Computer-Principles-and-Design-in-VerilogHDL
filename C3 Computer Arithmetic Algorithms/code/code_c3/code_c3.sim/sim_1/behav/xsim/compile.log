@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C3 Computer Arithmetic Algorithms/code/code_c3/code_c3.srcs/sources_1/new/signed_mul.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module signed_mul
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C3 Computer Arithmetic Algorithms/code/code_c3/code_c3.srcs/sim_1/new/signed_mul_test.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module signed_mul_test
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C3 Computer Arithmetic Algorithms/code/code_c3/code_c3.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
