@@ -1,9 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C3 Computer Arithmetic Algorithms/code/code.srcs/sources_1/new/noRestore_root.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module noRestore_root
-INFO: [VRFC 10-311] analyzing module addsub
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C3 Computer Arithmetic Algorithms/code/code.srcs/sources_1/new/restore_rooter.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module restore_rooter
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C3 Computer Arithmetic Algorithms/code/code.srcs/sim_1/new/restore_rooter_test.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module restore_rooter_test
-INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C3 Computer Arithmetic Algorithms/code/code.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl

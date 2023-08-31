@@ -5,12 +5,11 @@ Running: E:/SoftWares/Vivado/Vivado/2023.1/bin/unwrapped/win64.o/xelab.exe --deb
 Using 2 slave threads.
 Starting static elaboration
 Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 3 differs from formal bit length 4 for port 'r' [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C3 Computer Arithmetic Algorithms/code/code.srcs/sim_1/new/restore_rooter_test.v:43]
 Completed static elaboration
 Starting simulation data flow analysis
 Completed simulation data flow analysis
 Time Resolution for simulation is 1ps
-Compiling module xil_defaultlib.restore_rooter
-Compiling module xil_defaultlib.addsub
 Compiling module xil_defaultlib.noRestore_root
 Compiling module xil_defaultlib.restore_rooter_test
 Compiling module xil_defaultlib.glbl

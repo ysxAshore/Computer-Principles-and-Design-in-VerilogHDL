@@ -1,7 +1,6 @@
 # compile verilog/system verilog design source files
 verilog xil_defaultlib  \
 "../../../../code.srcs/sources_1/new/noRestore_root.v" \
-"../../../../code.srcs/sources_1/new/restore_rooter.v" \
 "../../../../code.srcs/sim_1/new/restore_rooter_test.v" \
 
 # compile glbl module
