@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C4 Instruction Set Architecture/code/code.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-311] analyzing module mux4to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C4 Instruction Set Architecture/code/code.srcs/sim_1/new/alu_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu_test
