@@ -6,8 +6,8 @@ module restoreDivder_test();
     reg [3:0]b;
 
     wire  busy,ready;
-    wire [3:0]q,q1;//q的位宽取决于a
-    wire [3:0]r,r1;//r位宽取决于b
+    wire [3:0]q,q1,q2;//q的位宽取决于a
+    wire [3:0]r,r1,r2;//r位宽取决于b
 
     initial begin
         clk=0;start=0;
@@ -45,5 +45,15 @@ module restoreDivder_test();
         .ready(ready),
         .q(q1),
         .r(r1)
+    );
+    notRestore_comDivider notRestore_comDivider_init(
+        .clk(clk),
+        .start(start),
+        .a(a),
+        .b(b),
+        .busy(busy),
+        .ready(ready),
+        .q(q2),
+        .r(r2)
     );
 endmodule

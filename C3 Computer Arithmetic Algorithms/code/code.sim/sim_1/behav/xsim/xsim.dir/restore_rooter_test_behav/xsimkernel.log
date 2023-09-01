@@ -1,7 +1,0 @@
-Running: xsim.dir/restore_rooter_test_behav/xsimk.exe -simmode gui -wdb restore_rooter_test_behav.wdb -simrunnum 0 -socket 6098
-Design successfully loaded
-Design Loading Memory Usage: 9324 KB (Peak: 9324 KB)
-Design Loading CPU Usage: 15 ms
-Simulation completed
-Simulation Memory Usage: 9900 KB (Peak: 9900 KB)
-Simulation CPU Usage: 15 ms
