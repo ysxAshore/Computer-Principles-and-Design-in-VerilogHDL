@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../code.srcs/sources_1/new/wallac8_8.v" \
+"../../../../code.srcs/sources_1/new/wallacCarryAdder8_8.v" \
+"../../../../code.srcs/sources_1/new/wallaceSignedMul.v" \
+"../../../../code.srcs/sim_1/new/wallacCA_test.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -86,7 +86,7 @@ module cu(
     assign mfc0_sel[0]=i_mfc0&(is_sta|is_epc);
     assign mfc0_sel[1]=i_mfc0&(is_cau|is_epc);
 
-    assign wreg=i_add|i_sub|i_add|i_or|i_xor|i_sll|i_srl|i_sra|i_addi|i_andi|i_ori|i_xori|i_lw|i_lui|i_jal|i_mfc0;
+    assign wreg=i_add|i_sub|i_and|i_or|i_xor|i_sll|i_srl|i_sra|i_addi|i_andi|i_ori|i_xori|i_lw|i_lui|i_jal|i_mfc0;
     assign regdst=i_addi|i_andi|i_ori|i_xori|i_lw|i_lui|i_mfc0;
     assign jal=i_jal;
     assign m2reg=i_lw;

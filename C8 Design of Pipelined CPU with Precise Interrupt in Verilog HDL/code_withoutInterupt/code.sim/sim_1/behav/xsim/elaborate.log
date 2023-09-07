@@ -1,0 +1,36 @@
+Vivado Simulator v2023.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: E:/SoftWares/Vivado/Vivado/2023.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot top_test_behav xil_defaultlib.top_test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 32 for port 'a' [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C8 Design of Pipelined CPU with Precise Interrupt in Verilog HDL/code_withoutInterupt/code.srcs/sources_1/new/datapath.v:60]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'enable' [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C8 Design of Pipelined CPU with Precise Interrupt in Verilog HDL/code_withoutInterupt/code.srcs/sources_1/new/cu.v:72]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'enable' [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C8 Design of Pipelined CPU with Precise Interrupt in Verilog HDL/code_withoutInterupt/code.srcs/sources_1/new/cu.v:75]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'enable' [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C8 Design of Pipelined CPU with Precise Interrupt in Verilog HDL/code_withoutInterupt/code.srcs/sources_1/new/cu.v:77]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mux4to1
+Compiling module xil_defaultlib.regDesign
+Compiling module xil_defaultlib.adder
+Compiling module xil_defaultlib.regDesign(WIDTH=64)
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.mux2to1
+Compiling module xil_defaultlib.regDesign(WIDTH=133)
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.regDesign(WIDTH=69)
+Compiling module xil_defaultlib.datapath
+Compiling module xil_defaultlib.regDesign(WIDTH=10)
+Compiling module xil_defaultlib.regDesign(WIDTH=3)
+Compiling module xil_defaultlib.regDesign(WIDTH=2)
+Compiling module xil_defaultlib.harzard
+Compiling module xil_defaultlib.cu
+Compiling module xil_defaultlib.p1_inst_mem
+Compiling module xil_defaultlib.p1_data_mem
+Compiling module xil_defaultlib.top
+Compiling module xil_defaultlib.top_test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot top_test_behav

@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_test_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="top_test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="728.160 ns"></ZoomStartTime>
+      <ZoomEndTime time="831.461 ns"></ZoomEndTime>
+      <Cursor1Time time="790.060 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="340"></NameColumnWidth>
+      <ValueColumnWidth column_width="155"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="118" />
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/clrn" type="logic">
+      <obj_property name="ElementShortName">clrn</obj_property>
+      <obj_property name="ObjectShortName">clrn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/wpcir" type="logic">
+      <obj_property name="ElementShortName">wpcir</obj_property>
+      <obj_property name="ObjectShortName">wpcir</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/pcsrc" type="array">
+      <obj_property name="ElementShortName">pcsrc[1:0]</obj_property>
+      <obj_property name="ObjectShortName">pcsrc[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/pc" type="array">
+      <obj_property name="ElementShortName">pc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/inst" type="array">
+      <obj_property name="ElementShortName">inst[31:0]</obj_property>
+      <obj_property name="ObjectShortName">inst[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/op" type="array">
+      <obj_property name="ElementShortName">op[5:0]</obj_property>
+      <obj_property name="ObjectShortName">op[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/funct" type="array">
+      <obj_property name="ElementShortName">funct[5:0]</obj_property>
+      <obj_property name="ObjectShortName">funct[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/rs" type="array">
+      <obj_property name="ElementShortName">rs[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rs[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/rt" type="array">
+      <obj_property name="ElementShortName">rt[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rt[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/sext" type="logic">
+      <obj_property name="ElementShortName">sext</obj_property>
+      <obj_property name="ObjectShortName">sext</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/regdst" type="logic">
+      <obj_property name="ElementShortName">regdst</obj_property>
+      <obj_property name="ObjectShortName">regdst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/forwardAD" type="array">
+      <obj_property name="ElementShortName">forwardAD[1:0]</obj_property>
+      <obj_property name="ObjectShortName">forwardAD[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/forwardBD" type="array">
+      <obj_property name="ElementShortName">forwardBD[1:0]</obj_property>
+      <obj_property name="ObjectShortName">forwardBD[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/z" type="logic">
+      <obj_property name="ElementShortName">z</obj_property>
+      <obj_property name="ObjectShortName">z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/eshift" type="logic">
+      <obj_property name="ElementShortName">eshift</obj_property>
+      <obj_property name="ObjectShortName">eshift</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/ealusrc" type="logic">
+      <obj_property name="ElementShortName">ealusrc</obj_property>
+      <obj_property name="ObjectShortName">ealusrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/ejal" type="logic">
+      <obj_property name="ElementShortName">ejal</obj_property>
+      <obj_property name="ObjectShortName">ejal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/ealuc" type="array">
+      <obj_property name="ElementShortName">ealuc[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ealuc[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/ewn" type="array">
+      <obj_property name="ElementShortName">ewn[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ewn[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/mwmem" type="logic">
+      <obj_property name="ElementShortName">mwmem</obj_property>
+      <obj_property name="ObjectShortName">mwmem</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/aluoutM" type="array">
+      <obj_property name="ElementShortName">aluoutM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">aluoutM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/memWriteData" type="array">
+      <obj_property name="ElementShortName">memWriteData[31:0]</obj_property>
+      <obj_property name="ObjectShortName">memWriteData[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/memreadM" type="array">
+      <obj_property name="ElementShortName">memreadM[31:0]</obj_property>
+      <obj_property name="ObjectShortName">memreadM[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/mwn" type="array">
+      <obj_property name="ElementShortName">mwn[4:0]</obj_property>
+      <obj_property name="ObjectShortName">mwn[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/wm2reg" type="logic">
+      <obj_property name="ElementShortName">wm2reg</obj_property>
+      <obj_property name="ObjectShortName">wm2reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/wwreg" type="logic">
+      <obj_property name="ElementShortName">wwreg</obj_property>
+      <obj_property name="ObjectShortName">wwreg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/wd" type="array">
+      <obj_property name="ElementShortName">wd[31:0]</obj_property>
+      <obj_property name="ObjectShortName">wd[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/aluoutE" type="array">
+      <obj_property name="ElementShortName">aluoutE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">aluoutE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/pcAdder4" type="array">
+      <obj_property name="ElementShortName">pcAdder4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pcAdder4[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/bpc" type="array">
+      <obj_property name="ElementShortName">bpc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">bpc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/jpc" type="array">
+      <obj_property name="ElementShortName">jpc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">jpc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/rpc" type="array">
+      <obj_property name="ElementShortName">rpc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">rpc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/npc" type="array">
+      <obj_property name="ElementShortName">npc[31:0]</obj_property>
+      <obj_property name="ObjectShortName">npc[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/pcAdder4D" type="array">
+      <obj_property name="ElementShortName">pcAdder4D[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pcAdder4D[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/instrD" type="array">
+      <obj_property name="ElementShortName">instrD[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instrD[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/rd" type="array">
+      <obj_property name="ElementShortName">rd[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rd[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/imm" type="array">
+      <obj_property name="ElementShortName">imm[15:0]</obj_property>
+      <obj_property name="ObjectShortName">imm[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/imm_sext" type="array">
+      <obj_property name="ElementShortName">imm_sext[31:0]</obj_property>
+      <obj_property name="ObjectShortName">imm_sext[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/qa" type="array">
+      <obj_property name="ElementShortName">qa[31:0]</obj_property>
+      <obj_property name="ObjectShortName">qa[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/qb" type="array">
+      <obj_property name="ElementShortName">qb[31:0]</obj_property>
+      <obj_property name="ObjectShortName">qb[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/wn_temp" type="array">
+      <obj_property name="ElementShortName">wn_temp[4:0]</obj_property>
+      <obj_property name="ObjectShortName">wn_temp[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/wwn" type="array">
+      <obj_property name="ElementShortName">wwn[4:0]</obj_property>
+      <obj_property name="ObjectShortName">wwn[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/A" type="array">
+      <obj_property name="ElementShortName">A[31:0]</obj_property>
+      <obj_property name="ObjectShortName">A[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/B" type="array">
+      <obj_property name="ElementShortName">B[31:0]</obj_property>
+      <obj_property name="ObjectShortName">B[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/pcAdder4E" type="array">
+      <obj_property name="ElementShortName">pcAdder4E[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pcAdder4E[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/eA" type="array">
+      <obj_property name="ElementShortName">eA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">eA[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/eB" type="array">
+      <obj_property name="ElementShortName">eB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">eB[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/eimmSext" type="array">
+      <obj_property name="ElementShortName">eimmSext[31:0]</obj_property>
+      <obj_property name="ObjectShortName">eimmSext[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/ewn_temp" type="array">
+      <obj_property name="ElementShortName">ewn_temp[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ewn_temp[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/pcAdder8" type="array">
+      <obj_property name="ElementShortName">pcAdder8[31:0]</obj_property>
+      <obj_property name="ObjectShortName">pcAdder8[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/aluA" type="array">
+      <obj_property name="ElementShortName">aluA[31:0]</obj_property>
+      <obj_property name="ObjectShortName">aluA[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/aluB" type="array">
+      <obj_property name="ElementShortName">aluB[31:0]</obj_property>
+      <obj_property name="ObjectShortName">aluB[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/zero" type="logic">
+      <obj_property name="ElementShortName">zero</obj_property>
+      <obj_property name="ObjectShortName">zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/overflow" type="logic">
+      <obj_property name="ElementShortName">overflow</obj_property>
+      <obj_property name="ObjectShortName">overflow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/alures" type="array">
+      <obj_property name="ElementShortName">alures[31:0]</obj_property>
+      <obj_property name="ObjectShortName">alures[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/aluoutW" type="array">
+      <obj_property name="ElementShortName">aluoutW[31:0]</obj_property>
+      <obj_property name="ObjectShortName">aluoutW[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/memreadW" type="array">
+      <obj_property name="ElementShortName">memreadW[31:0]</obj_property>
+      <obj_property name="ObjectShortName">memreadW[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/clrn" type="logic">
+      <obj_property name="ElementShortName">clrn</obj_property>
+      <obj_property name="ObjectShortName">clrn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/funct" type="array">
+      <obj_property name="ElementShortName">funct[5:0]</obj_property>
+      <obj_property name="ObjectShortName">funct[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/op" type="array">
+      <obj_property name="ElementShortName">op[5:0]</obj_property>
+      <obj_property name="ObjectShortName">op[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/rs" type="array">
+      <obj_property name="ElementShortName">rs[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rs[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/rt" type="array">
+      <obj_property name="ElementShortName">rt[4:0]</obj_property>
+      <obj_property name="ObjectShortName">rt[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/ewn" type="array">
+      <obj_property name="ElementShortName">ewn[4:0]</obj_property>
+      <obj_property name="ObjectShortName">ewn[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/mwn" type="array">
+      <obj_property name="ElementShortName">mwn[4:0]</obj_property>
+      <obj_property name="ObjectShortName">mwn[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/z" type="logic">
+      <obj_property name="ElementShortName">z</obj_property>
+      <obj_property name="ObjectShortName">z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/wpcir" type="logic">
+      <obj_property name="ElementShortName">wpcir</obj_property>
+      <obj_property name="ObjectShortName">wpcir</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/pcsrc" type="array">
+      <obj_property name="ElementShortName">pcsrc[1:0]</obj_property>
+      <obj_property name="ObjectShortName">pcsrc[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/sext" type="logic">
+      <obj_property name="ElementShortName">sext</obj_property>
+      <obj_property name="ObjectShortName">sext</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/regdst" type="logic">
+      <obj_property name="ElementShortName">regdst</obj_property>
+      <obj_property name="ObjectShortName">regdst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/forwardAD" type="array">
+      <obj_property name="ElementShortName">forwardAD[1:0]</obj_property>
+      <obj_property name="ObjectShortName">forwardAD[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/forwardBD" type="array">
+      <obj_property name="ElementShortName">forwardBD[1:0]</obj_property>
+      <obj_property name="ObjectShortName">forwardBD[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/ejal" type="logic">
+      <obj_property name="ElementShortName">ejal</obj_property>
+      <obj_property name="ObjectShortName">ejal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/eshift" type="logic">
+      <obj_property name="ElementShortName">eshift</obj_property>
+      <obj_property name="ObjectShortName">eshift</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/ealusrc" type="logic">
+      <obj_property name="ElementShortName">ealusrc</obj_property>
+      <obj_property name="ObjectShortName">ealusrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/ealuc" type="array">
+      <obj_property name="ElementShortName">ealuc[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ealuc[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/mwmem" type="logic">
+      <obj_property name="ElementShortName">mwmem</obj_property>
+      <obj_property name="ObjectShortName">mwmem</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/wwreg" type="logic">
+      <obj_property name="ElementShortName">wwreg</obj_property>
+      <obj_property name="ObjectShortName">wwreg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/wm2reg" type="logic">
+      <obj_property name="ElementShortName">wm2reg</obj_property>
+      <obj_property name="ObjectShortName">wm2reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/rtype" type="logic">
+      <obj_property name="ElementShortName">rtype</obj_property>
+      <obj_property name="ObjectShortName">rtype</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_add" type="logic">
+      <obj_property name="ElementShortName">i_add</obj_property>
+      <obj_property name="ObjectShortName">i_add</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_sub" type="logic">
+      <obj_property name="ElementShortName">i_sub</obj_property>
+      <obj_property name="ObjectShortName">i_sub</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_and" type="logic">
+      <obj_property name="ElementShortName">i_and</obj_property>
+      <obj_property name="ObjectShortName">i_and</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_or" type="logic">
+      <obj_property name="ElementShortName">i_or</obj_property>
+      <obj_property name="ObjectShortName">i_or</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_xor" type="logic">
+      <obj_property name="ElementShortName">i_xor</obj_property>
+      <obj_property name="ObjectShortName">i_xor</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_sll" type="logic">
+      <obj_property name="ElementShortName">i_sll</obj_property>
+      <obj_property name="ObjectShortName">i_sll</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_srl" type="logic">
+      <obj_property name="ElementShortName">i_srl</obj_property>
+      <obj_property name="ObjectShortName">i_srl</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_sra" type="logic">
+      <obj_property name="ElementShortName">i_sra</obj_property>
+      <obj_property name="ObjectShortName">i_sra</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_jr" type="logic">
+      <obj_property name="ElementShortName">i_jr</obj_property>
+      <obj_property name="ObjectShortName">i_jr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_addi" type="logic">
+      <obj_property name="ElementShortName">i_addi</obj_property>
+      <obj_property name="ObjectShortName">i_addi</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_andi" type="logic">
+      <obj_property name="ElementShortName">i_andi</obj_property>
+      <obj_property name="ObjectShortName">i_andi</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_ori" type="logic">
+      <obj_property name="ElementShortName">i_ori</obj_property>
+      <obj_property name="ObjectShortName">i_ori</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_xori" type="logic">
+      <obj_property name="ElementShortName">i_xori</obj_property>
+      <obj_property name="ObjectShortName">i_xori</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_lw" type="logic">
+      <obj_property name="ElementShortName">i_lw</obj_property>
+      <obj_property name="ObjectShortName">i_lw</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_sw" type="logic">
+      <obj_property name="ElementShortName">i_sw</obj_property>
+      <obj_property name="ObjectShortName">i_sw</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_beq" type="logic">
+      <obj_property name="ElementShortName">i_beq</obj_property>
+      <obj_property name="ObjectShortName">i_beq</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_bne" type="logic">
+      <obj_property name="ElementShortName">i_bne</obj_property>
+      <obj_property name="ObjectShortName">i_bne</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_lui" type="logic">
+      <obj_property name="ElementShortName">i_lui</obj_property>
+      <obj_property name="ObjectShortName">i_lui</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_j" type="logic">
+      <obj_property name="ElementShortName">i_j</obj_property>
+      <obj_property name="ObjectShortName">i_j</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_jal" type="logic">
+      <obj_property name="ElementShortName">i_jal</obj_property>
+      <obj_property name="ObjectShortName">i_jal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/stall" type="logic">
+      <obj_property name="ElementShortName">stall</obj_property>
+      <obj_property name="ObjectShortName">stall</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/wreg" type="logic">
+      <obj_property name="ElementShortName">wreg</obj_property>
+      <obj_property name="ObjectShortName">wreg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/jal" type="logic">
+      <obj_property name="ElementShortName">jal</obj_property>
+      <obj_property name="ObjectShortName">jal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/m2reg" type="logic">
+      <obj_property name="ElementShortName">m2reg</obj_property>
+      <obj_property name="ObjectShortName">m2reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/shift" type="logic">
+      <obj_property name="ElementShortName">shift</obj_property>
+      <obj_property name="ObjectShortName">shift</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/alusrc" type="logic">
+      <obj_property name="ElementShortName">alusrc</obj_property>
+      <obj_property name="ObjectShortName">alusrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/aluc" type="array">
+      <obj_property name="ElementShortName">aluc[3:0]</obj_property>
+      <obj_property name="ObjectShortName">aluc[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/wmem" type="logic">
+      <obj_property name="ElementShortName">wmem</obj_property>
+      <obj_property name="ObjectShortName">wmem</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/ewreg" type="logic">
+      <obj_property name="ElementShortName">ewreg</obj_property>
+      <obj_property name="ObjectShortName">ewreg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/em2reg" type="logic">
+      <obj_property name="ElementShortName">em2reg</obj_property>
+      <obj_property name="ObjectShortName">em2reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/ewmem" type="logic">
+      <obj_property name="ElementShortName">ewmem</obj_property>
+      <obj_property name="ObjectShortName">ewmem</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/mwreg" type="logic">
+      <obj_property name="ElementShortName">mwreg</obj_property>
+      <obj_property name="ObjectShortName">mwreg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/mm2reg" type="logic">
+      <obj_property name="ElementShortName">mm2reg</obj_property>
+      <obj_property name="ObjectShortName">mm2reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_rs" type="logic">
+      <obj_property name="ElementShortName">i_rs</obj_property>
+      <obj_property name="ObjectShortName">i_rs</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/cu_inst/i_rt" type="logic">
+      <obj_property name="ElementShortName">i_rt</obj_property>
+      <obj_property name="ObjectShortName">i_rt</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/ram/ram" type="array">
+      <obj_property name="ElementShortName">ram[0:31][31:0]</obj_property>
+      <obj_property name="ObjectShortName">ram[0:31][31:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_test/top_inst/datapath_inst/regfile_init/regs" type="array">
+      <obj_property name="ElementShortName">regs[31:0][31:0]</obj_property>
+      <obj_property name="ObjectShortName">regs[31:0][31:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
