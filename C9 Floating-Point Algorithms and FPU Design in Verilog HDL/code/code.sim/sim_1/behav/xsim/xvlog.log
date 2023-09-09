@@ -1,0 +1,16 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C9 Floating-Point Algorithms and FPU Design in Verilog HDL/code/code.srcs/sources_1/new/csa64.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module csa
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C9 Floating-Point Algorithms and FPU Design in Verilog HDL/code/code.srcs/sources_1/new/fsqrt_design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fsqrt_design
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C9 Floating-Point Algorithms and FPU Design in Verilog HDL/code/code.srcs/sources_1/new/reg_design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_design
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C9 Floating-Point Algorithms and FPU Design in Verilog HDL/code/code.srcs/sources_1/new/shift_even.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shift_even
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C9 Floating-Point Algorithms and FPU Design in Verilog HDL/code/code.srcs/sources_1/new/wallace24x28.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wallace24x28
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C9 Floating-Point Algorithms and FPU Design in Verilog HDL/code/code.srcs/sources_1/new/wallace26x26.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wallace26x26
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C9 Floating-Point Algorithms and FPU Design in Verilog HDL/code/code.srcs/sources_1/new/wallace32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wallace26x24
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C9 Floating-Point Algorithms and FPU Design in Verilog HDL/code/code.srcs/sim_1/new/fsqrt_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fsqrt_test
