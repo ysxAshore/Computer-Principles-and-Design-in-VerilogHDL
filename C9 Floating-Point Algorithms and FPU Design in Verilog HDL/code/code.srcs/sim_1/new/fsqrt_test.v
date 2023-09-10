@@ -11,7 +11,7 @@ module fsqrt_test();
     wire [4:0]count;
     wire [31:0]res;
     initial begin
-        d=32'h4110_0000;
+        d=32'h0000_3200;
         clk=0;clear=0;rm=2'b00;
         #3;clear=1;
         #1;clear=0;

@@ -81,12 +81,12 @@ module fmul_design(
                     temp_e=temp_e-1;                    
                 end
             end 
-            if (temp_e[9]==1|temp_e<1)begin
+            if (temp_e[9]==1|temp_e[7:0]<1)begin
                 cmin[149:122]=frac;
                 cmin=cmin>>~(temp_e-127)+1;
                 if (cmin>min) begin
                     temp_e=0;
-                    frac=frac>>1;
+                    frac=frac>>1;//非规格化数
                 end else begin
                     temp_e=0;
                     frac=0;
