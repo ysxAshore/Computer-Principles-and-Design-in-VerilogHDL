@@ -1,0 +1,75 @@
+Vivado Simulator v2023.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: E:/SoftWares/Vivado/Vivado/2023.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot cpu_test_behav xil_defaultlib.cpu_test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 64 differs from formal bit length 50 for port 's' [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/wallace26x24.v:46]
+WARNING: [VRFC 10-3091] actual bit length 64 differs from formal bit length 50 for port 's' [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/wallace26x24.v:47]
+WARNING: [VRFC 10-3091] actual bit length 64 differs from formal bit length 50 for port 'a' [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/wallace26x24.v:50]
+WARNING: [VRFC 10-3091] actual bit length 64 differs from formal bit length 50 for port 'a' [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/wallace26x24.v:53]
+WARNING: [VRFC 10-3091] actual bit length 52 differs from formal bit length 26 for port 'b' [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/pipe_sqrt.v:42]
+WARNING: [VRFC 10-3091] actual bit length 5 differs from formal bit length 32 for port 'a' [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/datapath.v:64]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'enable' [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/cu.v:87]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'enable' [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/cu.v:90]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'enable' [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/cu.v:92]
+WARNING: [VRFC 10-3705] select index 47 into 'temp_frac' is out of bounds [E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/pipe_sqrt.v:106]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.reg_design(WIDTH=65)
+Compiling module xil_defaultlib.align_design
+Compiling module xil_defaultlib.reg_design(WIDTH=182)
+Compiling module xil_defaultlib.cal_design
+Compiling module xil_defaultlib.reg_design(WIDTH=153)
+Compiling module xil_defaultlib.normal_design
+Compiling module xil_defaultlib.pipe_alu
+Compiling module xil_defaultlib.csa48
+Compiling module xil_defaultlib.wallace24
+Compiling module xil_defaultlib.partical
+Compiling module xil_defaultlib.reg_design(WIDTH=139)
+Compiling module xil_defaultlib.add
+Compiling module xil_defaultlib.reg_design(WIDTH=91)
+Compiling module xil_defaultlib.normal
+Compiling module xil_defaultlib.pipe_mul
+Compiling module xil_defaultlib.shift_toMSB1
+Compiling module xil_defaultlib.csa
+Compiling module xil_defaultlib.wallace26x24
+Compiling module xil_defaultlib.csa(WIDTH=52)
+Compiling module xil_defaultlib.wallace26x26
+Compiling module xil_defaultlib.reg_design(WIDTH=69)
+Compiling module xil_defaultlib.reg_design(WIDTH=119)
+Compiling module xil_defaultlib.pipe_div
+Compiling module xil_defaultlib.shift_even
+Compiling module xil_defaultlib.wallace24x28
+Compiling module xil_defaultlib.reg_design(WIDTH=64)
+Compiling module xil_defaultlib.reg_design(WIDTH=114)
+Compiling module xil_defaultlib.pipe_sqrt
+Compiling module xil_defaultlib.reg_design(WIDTH=8)
+Compiling module xil_defaultlib.reg_design(WIDTH=38)
+Compiling module xil_defaultlib.mux4to1
+Compiling module xil_defaultlib.fpu
+Compiling module xil_defaultlib.regDesign
+Compiling module xil_defaultlib.adder
+Compiling module xil_defaultlib.regDesign(WIDTH=64)
+Compiling module xil_defaultlib.regfile
+Compiling module xil_defaultlib.mux2to1
+Compiling module xil_defaultlib.regDesign(WIDTH=165)
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.regDesign(WIDTH=69)
+Compiling module xil_defaultlib.datapath
+Compiling module xil_defaultlib.regDesign(WIDTH=12)
+Compiling module xil_defaultlib.regDesign(WIDTH=4)
+Compiling module xil_defaultlib.regDesign(WIDTH=3)
+Compiling module xil_defaultlib.harzard
+Compiling module xil_defaultlib.cu
+Compiling module xil_defaultlib.p1_inst_mem
+Compiling module xil_defaultlib.p1_data_mem
+Compiling module xil_defaultlib.iu
+Compiling module xil_defaultlib.twoWriteReg
+Compiling module xil_defaultlib.top_cpu
+Compiling module xil_defaultlib.cpu_test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot cpu_test_behav

@@ -1,0 +1,68 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/add.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module add
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/align_desgin.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module align_design
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/cal_design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cal_design
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/csa48.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module csa48
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/cu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cu
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datapath
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/fpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fpu
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/harzard.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module harzard
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/mux2to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/mux4to1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux4to1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/normal.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module normal
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/normal_design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module normal_design
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/p1_data_mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module p1_data_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/p1_inst_mem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module p1_inst_mem
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/partical.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module partical
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/pipe_alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipe_alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/pipe_div.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipe_div
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/pipe_mul.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipe_mul
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/pipe_sqrt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipe_sqrt
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/regDesign.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regDesign
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/reg_design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_design
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/regfile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module regfile
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/shift_even.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shift_even
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/shift_toMSB1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shift_toMSB1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module iu
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/top_cpu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_cpu
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/twoWriteReg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module twoWriteReg
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/wallace24.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wallace24
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/wallace24x28.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wallace24x28
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/wallace26x24.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wallace26x24
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sources_1/new/wallace26x26.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module wallace26x26
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/Projects/Studying/Computer Principles and Design in Verilog HDL/C10/code/code.srcs/sim_1/new/cpu_test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_test

@@ -2,3 +2,6 @@ Running: xsim.dir/fsqrt_test_behav/xsimk.exe -simmode gui -wdb fsqrt_test_behav.
 Design successfully loaded
 Design Loading Memory Usage: 9680 KB (Peak: 9680 KB)
 Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 11028 KB (Peak: 11028 KB)
+Simulation CPU Usage: 15 ms
